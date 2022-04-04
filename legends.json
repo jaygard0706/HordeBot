@@ -1,0 +1,222 @@
+{
+  "bodvar": {
+    "weapon1" : "sword",
+    "weapon2" : "hammer"
+  },
+  "cassidy": {
+    "weapon1" : "guns",
+    "weapon2" : "hammer"
+  },
+  "orion": {
+    "weapon1" : "lance",
+    "weapon2" : "spear"
+  },
+  "vraxx": {
+    "weapon1" : "lance",
+    "weapon2" : "guns"
+  },
+  "gnash": {
+    "weapon1" : "spear",
+    "weapon2" : "hammer"
+  },
+  "nai": {
+    "weapon1" : "spear",
+    "weapon2" : "katars"
+  },
+  "hattori": {
+    "weapon1" : "sword",
+    "weapon2" : "spear"
+  },
+  "roland": {
+    "weapon1" : "sword",
+    "weapon2" : "lance"
+  },
+  "scarlet": {
+    "weapon1" : "lance",
+    "weapon2" : "hammer"
+  },
+  "thatch": {
+    "weapon1" : "guns",
+    "weapon2" : "sword"
+  },
+  "ada": {
+    "weapon1" : "guns",
+    "weapon2" : "spear"
+  },
+  "sentinel": {
+    "weapon1" : "katars",
+    "weapon2" : "hammer"
+  },
+  "lucien": {
+    "weapon1" : "guns",
+    "weapon2" : "katars"
+  },
+  "teros": {
+    "weapon1" : "axe",
+    "weapon2" : "hammer"
+  },
+  "brynn": {
+    "weapon1" : "axe",
+    "weapon2" : "spear"
+  },
+  "asuri": {
+    "weapon1" : "sword",
+    "weapon2" : "katars"
+  },
+  "barraza": {
+    "weapon1" : "guns",
+    "weapon2" : "axe"
+  },
+  "ember": {
+    "weapon1" : "bow",
+    "weapon2" : "katars"
+  },
+  "azoth": {
+    "weapon1" : "bow",
+    "weapon2" : "axe"
+  },
+  "koji": {
+    "weapon1" : "bow",
+    "weapon2" : "sword"
+  },
+  "ulgrim": {
+    "weapon1" : "axe",
+    "weapon2" : "lance"
+  },
+  "diana": {
+    "weapon1" : "guns",
+    "weapon2" : "bow"
+  },
+  "jhala": {
+    "weapon1" : "sword",
+    "weapon2" : "axe"
+  },
+  "kor": {
+    "weapon1" : "gauntlets",
+    "weapon2" : "hammer"
+  },
+  "wu shang": {
+    "weapon1" : "gauntlets",
+    "weapon2" : "spear"
+  },
+  "val": {
+    "weapon1" : "sword",
+    "weapon2" : "gauntlets"
+  },
+  "ragnir": {
+    "weapon1" : "axe",
+    "weapon2" : "katars"
+  },
+  "cross": {
+    "weapon1" : "guns",
+    "weapon2" : "gauntlets"
+  },
+  "mirage": {
+    "weapon1" : "scythe",
+    "weapon2" : "spear"
+  },
+  "nix": {
+    "weapon1" : "guns",
+    "weapon2" : "scythe"
+  },
+  "mordex": {
+    "weapon1" : "gauntlets",
+    "weapon2" : "scythe"
+  },
+  "yumiko": {
+    "weapon1" : "bow",
+    "weapon2" : "hammer"
+  },
+  "artemis": {
+    "weapon1" : "scythe",
+    "weapon2" : "lance"
+  },
+  "caspian": {
+    "weapon1" : "gauntlets",
+    "weapon2" : "katars"
+  },
+  "sidra": {
+    "weapon1" : "sword",
+    "weapon2" : "cannon"
+  },
+  "xull": {
+    "weapon1" : "axe",
+    "weapon2" : "cannon"
+  },
+  "kaya": {
+    "weapon1" : "bow",
+    "weapon2" : "spear"
+  },
+  "isaiah": {
+    "weapon1" : "guns",
+    "weapon2" : "cannon"
+  },
+  "jiro": {
+    "weapon1" : "scythe",
+    "weapon2" : "sword"
+  },
+  "lin fei": {
+    "weapon1" : "katars",
+    "weapon2" : "cannon"
+  },
+  "zariel": {
+    "weapon1" : "gauntlets",
+    "weapon2" : "bow"
+  },
+  "rayman": {
+    "weapon1" : "gauntlets",
+    "weapon2" : "axe"
+  },
+  "dusk": {
+    "weapon1" : "orb",
+    "weapon2" : "spear"
+  },
+  "fait": {
+    "weapon1" : "orb",
+    "weapon2" : "scythe"
+  },
+  "thor": {
+    "weapon1" : "orb",
+    "weapon2" : "hammer"
+  },
+  "petra": {
+    "weapon1" : "gauntlets",
+    "weapon2" : "orb"
+  },
+  "vector": {
+    "weapon1" : "lance",
+    "weapon2" : "bow"
+  },
+  "volkov": {
+    "weapon1" : "scythe",
+    "weapon2" : "axe"
+  },
+  "onyx": {
+    "weapon1" : "gauntlets",
+    "weapon2" : "cannon"
+  },
+  "jaeyun": {
+    "weapon1" : "greatsword",
+    "weapon2" : "sword"
+  },
+  "mako": {
+    "weapon1" : "katars",
+    "weapon2" : "greatsword"
+  },
+  "magyar": {
+    "weapon1" : "greatsword",
+    "weapon2" : "hammer"
+  },
+  "reno": {
+    "weapon1" : "guns",
+    "weapon2" : "orb"
+  },
+  "munin": {
+    "weapon1" : "scythe",
+    "weapon2" : "bow"
+  },
+  "arcadia": {
+    "weapon1" : "spear",
+    "weapon2" : "greatsword"
+  }
+}

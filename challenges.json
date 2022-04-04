@@ -1,0 +1,508 @@
+{
+  "challenges": [
+    {
+      "challengeName": "1p Wave 6",
+      "points": 1,
+      "channelId": "914314515695427634",
+      "messageId": "914339065707528202"
+    },
+    {
+      "challengeName": "1p Wave 8",
+      "points": 2,
+      "channelId": "914314515695427634",
+      "messageId": "914339095365451777"
+    },
+    {
+      "challengeName": "1p Wave 13",
+      "points": 4,
+      "channelId": "914314515695427634",
+      "messageId": "914339126118064159"
+    },
+    {
+      "challengeName": "1p Gruagach",
+      "points": 4,
+      "channelId": "914314515695427634",
+      "messageId": "916268808153493504"
+    },
+    {
+      "challengeName": "1p Wave 16",
+      "points": 6,
+      "channelId": "914314515695427634",
+      "messageId": "914339154832273440"
+    },
+    {
+      "challengeName": "1p Indecisive",
+      "points": 6,
+      "channelId": "914314515695427634",
+      "messageId": "924997200432496690"
+    },
+    {
+      "challengeName": "1p Wave 18",
+      "points": 7,
+      "channelId": "914314515695427634",
+      "messageId": "914339182120427540"
+    },
+    {
+      "challengeName": "1p Wave 21",
+      "points": 8,
+      "channelId": "914314515695427634",
+      "messageId": "914339267717763072"
+    },
+    {
+      "challengeName": "1p On Solid Ground",
+      "points": 8.5,
+      "channelId": "914314515695427634",
+      "messageId": "932930950776627230"
+    },
+    {
+      "challengeName": "1p Wave 24",
+      "points": 9,
+      "channelId": "914314515695427634",
+      "messageId": "914339303214178344"
+    },
+    {
+      "challengeName": "1p Precognition",
+      "points": 9,
+      "channelId": "914314515695427634",
+      "messageId": "922567443140997121"
+    },
+    {
+      "challengeName": "1p Flawless",
+      "points": 9.5,
+      "channelId": "914314515695427634",
+      "messageId": "914350973814718474"
+    },
+    {
+      "challengeName": "1p Wave 26",
+      "points": 10,
+      "channelId": "914314515695427634",
+      "messageId": "914339344704237598"
+    },
+    {
+      "challengeName": "2p Pocket Horde",
+      "points": 0,
+      "channelId": "931568713533100083",
+      "messageId": "935202742056648755"
+    },
+    {
+      "challengeName": "2p Rock, Paper, Scissors",
+      "points": 0,
+      "channelId": "931568713533100083",
+      "messageId": "931570181640163378"
+    },
+    {
+      "challengeName": "2p Wave 9",
+      "points": 1,
+      "channelId": "914314578442203176",
+      "messageId": "914340021052538920"
+    },
+    {
+      "challengeName": "2p Wave 13",
+      "points": 2,
+      "channelId": "914314578442203176",
+      "messageId": "914340051721273356"
+    },
+    {
+      "challengeName": "2p Wave 18",
+      "points": 4,
+      "channelId": "914314578442203176",
+      "messageId": "914340080175435796"
+    },
+    {
+      "challengeName": "2p Wave 26",
+      "points": 6,
+      "channelId": "914314578442203176",
+      "messageId": "914340107270631466"
+    },
+    {
+      "challengeName": "2p Wave 29",
+      "points": 7,
+      "channelId": "914314578442203176",
+      "messageId": "914340143559737404"
+    },
+    {
+      "challengeName": "2p Yin and Yang",
+      "points": 7,
+      "channelId": "914314578442203176",
+      "messageId": "924970296212082719"
+    },
+    {
+      "challengeName": "2p Disrupting the Meta",
+      "points": 7,
+      "channelId": "914314578442203176",
+      "messageId": "960545600359763998"
+    },
+    {
+      "challengeName": "2p 7 min",
+      "points": 7.5,
+      "channelId": "914314578442203176",
+      "messageId": "914348376563273768"
+    },
+    {
+      "challengeName": "2p Out of Bounds",
+      "points": 7.5,
+      "channelId": "914314578442203176",
+      "messageId": "925015588504477716"
+    },
+    {
+      "challengeName": "2p Unarmed",
+      "points": 8,
+      "channelId": "914314578442203176",
+      "messageId": "914347087313928232"
+    },
+    {
+      "challengeName": "2p Twinsies",
+      "points": 8,
+      "channelId": "914314578442203176",
+      "messageId": "924971251984916500"
+    },
+    {
+      "challengeName": "2p Airborne",
+      "points": 8,
+      "channelId": "914314578442203176",
+      "messageId": "924973148896657408"
+    },
+    {
+      "challengeName": "2p Floored",
+      "points": 8,
+      "channelId": "914314578442203176",
+      "messageId": "926540878984654858"
+    },
+    {
+      "challengeName": "2p Timed Waves",
+      "points": 8,
+      "channelId": "914314578442203176",
+      "messageId": "928097419827232828"
+    },
+    {
+      "challengeName": "2p Locked In",
+      "points": 8.5,
+      "channelId": "914314578442203176",
+      "messageId": "925005512662220810"
+    },
+    {
+      "challengeName": "2p Wave 34",
+      "points": 9,
+      "channelId": "914314578442203176",
+      "messageId": "914340175893626920"
+    },
+    {
+      "challengeName": "2p Ai Manipulation",
+      "points": 9,
+      "channelId": "914314578442203176",
+      "messageId": "926505848308654120"
+    },
+    {
+      "challengeName": "2p The Chosen Pigslayer",
+      "points": 9,
+      "channelId": "914314578442203176",
+      "messageId": "947627898850934824"
+    },
+    {
+      "challengeName": "2p Flawless",
+      "points": 9.5,
+      "channelId": "914314578442203176",
+      "messageId": "916269625682063370"
+    },
+    {
+      "challengeName": "2p Wave 40",
+      "points": 9.5,
+      "channelId": "914314578442203176",
+      "messageId": "914340211532648449"
+    },
+    {
+      "challengeName": "2p Taking Turns",
+      "points": 9.5,
+      "channelId": "914314578442203176",
+      "messageId": "932924835238117426"
+    },
+    {
+      "challengeName": "2p Wave 50",
+      "points": 10,
+      "channelId": "914314578442203176",
+      "messageId": "914340293661302844"
+    },
+    {
+      "challengeName": "3p True Teamwork",
+      "points": 0,
+      "channelId": "931568713533100083",
+      "messageId": "932923990106849291"
+    },
+    {
+      "challengeName": "3p Wave 26",
+      "points": 7,
+      "channelId": "914314612449636433",
+      "messageId": "914343452584587315"
+    },
+    {
+      "challengeName": "3p 7 min",
+      "points": 7.5,
+      "channelId": "914314612449636433",
+      "messageId": "914348771683495996"
+    },
+    {
+      "challengeName": "3p Wave 30",
+      "points": 9,
+      "channelId": "914314612449636433",
+      "messageId": "914348752528113684"
+    },
+    {
+      "challengeName": "3p Divided but Whole",
+      "points": 9,
+      "channelId": "914314612449636433",
+      "messageId": "923313042274541568"
+    },
+    {
+      "challengeName": "3p Centralized",
+      "points": 9,
+      "channelId": "914314612449636433",
+      "messageId": "925040034149703680"
+    },
+    {
+      "challengeName": "3p Triplets",
+      "points": 9.5,
+      "channelId": "914314612449636433",
+      "messageId": "924976934226653234"
+    },
+    {
+      "challengeName": "3p Switch-Off",
+      "points": 9.5,
+      "channelId": "914314612449636433",
+      "messageId": "924979278024695828"
+    },
+    {
+      "challengeName": "3p Reinforcements",
+      "points": 9.5,
+      "channelId": "914314612449636433",
+      "messageId": "925028792609669130"
+    },
+    {
+      "challengeName": "3p Throwing: The Game",
+      "points": 9.5,
+      "channelId": "914314612449636433",
+      "messageId": "926507810727010375"
+    },
+    {
+      "challengeName": "3p Combo Breaker",
+      "points": 9.5,
+      "channelId": "914314612449636433",
+      "messageId": "928102210645143583"
+    },
+    {
+      "challengeName": "3p One By One",
+      "points": 9.5,
+      "channelId": "914314612449636433",
+      "messageId": "932922611510411284"
+    },
+    {
+      "challengeName": "3p Pushing the Envelope",
+      "points": 9.5,
+      "channelId": "914314612449636433",
+      "messageId": "948459888600838164"
+    },
+    {
+      "challengeName": "4p Valhallan Roulette",
+      "points": 0,
+      "channelId": "931568713533100083",
+      "messageId": "931575161306640384"
+    },
+    {
+      "challengeName": "4p A Rare Specimen",
+      "points": 0,
+      "channelId": "931568713533100083",
+      "messageId": "944083631834554430"
+    },
+    {
+      "challengeName": "4p Wave 26",
+      "points": 8,
+      "channelId": "914314656775032864",
+      "messageId": "914349078371008553"
+    },
+    {
+      "challengeName": "4p Wave 22 hitless",
+      "points": 8,
+      "channelId": "914314656775032864",
+      "messageId": "916267534162993192"
+    },
+    {
+      "challengeName": "4p Horde Blues",
+      "points": 8.5,
+      "channelId": "914314656775032864",
+      "messageId": "924975639361105950"
+    },
+    {
+      "challengeName": "4p Red Dread",
+      "points": 8.5,
+      "channelId": "914314656775032864",
+      "messageId": "924976103662174208"
+    },
+    {
+      "challengeName": "4p RNGesus",
+      "points": 8.5,
+      "channelId": "914314656775032864",
+      "messageId": "929456841136685066"
+    },
+    {
+      "challengeName": "4p Wave 28",
+      "points": 9,
+      "channelId": "914314656775032864",
+      "messageId": "914349104614744105"
+    },
+    {
+      "challengeName": "4p Anti-Vegan Squad",
+      "points": 9,
+      "channelId": "914314656775032864",
+      "messageId": "928101293313118219"
+    },
+    {
+      "challengeName": "4p Overqualified",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "929156399659892747"
+    },
+    {
+      "challengeName": "4p Flawless",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "922685572882001931"
+    },
+    {
+      "challengeName": "4p Not So Mellow Yellows",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "924975894018273290"
+    },
+    {
+      "challengeName": "4p Sacrificial Ritual",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "924978457308459109"
+    },
+    {
+      "challengeName": "4p When Pigs Fly",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "924983000528224276"
+    },
+    {
+      "challengeName": "4p Platform Bound",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "924984561128071209"
+    },
+    {
+      "challengeName": "4p Slow Drip",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "925021872578506873"
+    },
+    {
+      "challengeName": "4p Tag Teams",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "926505343876477009"
+    },
+    {
+      "challengeName": "4p Increments",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "929154676736274443"
+    },
+    {
+      "challengeName": "4p Damage Control",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "929464469208301589"
+    },
+    {
+      "challengeName": "4p Planned Demolition",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "929464773194690562"
+    },
+    {
+      "challengeName": "4p Gruagach Strikes Back",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "928098820326293514"
+    },
+    {
+      "challengeName": "4p Throwing: The Game II",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "932798556761362512"
+    },
+    {
+      "challengeName": "4p Weapon or No Weapon",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "932928709390893086"
+    },
+    {
+      "challengeName": "4p Toxic Horde",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "925010176162005053"
+    },
+    {
+      "challengeName": "4p Overqualified: Part 2",
+      "points": 9.5,
+      "channelId": "914314656775032864",
+      "messageId": "948210818003116082"
+    },
+    {
+      "challengeName": "speedrun 3.15",
+      "points": 1,
+      "channelId": "924815892141994015",
+      "messageId": "926547060025593919"
+    },
+    {
+      "challengeName": "speedrun 3.00",
+      "points": 2,
+      "channelId": "924815892141994015",
+      "messageId": "926547477455331398"
+    },
+    {
+      "challengeName": "speedrun 2.40",
+      "points": 4.5,
+      "channelId": "924815892141994015",
+      "messageId": "926547651409874944"
+    },
+    {
+      "challengeName": "speedrun 2.30",
+      "points": 6,
+      "channelId": "924815892141994015",
+      "messageId": "926548455004991569"
+    },
+    {
+      "challengeName": "speedrun 2.20",
+      "points": 7,
+      "channelId": "924815892141994015",
+      "messageId": "926548696039047258"
+    },
+    {
+      "challengeName": "speedrun 2.10",
+      "points": 8.5,
+      "channelId": "924815892141994015",
+      "messageId": "926548997722767420"
+    },
+    {
+      "challengeName": "speedrun 2.06",
+      "points": 9.5,
+      "channelId": "924815892141994015",
+      "messageId": "926550068335624245"
+    },
+    {
+      "challengeName": "2p Destroying the Meta",
+      "points": 9.5,
+      "channelId": "914314578442203176",
+      "messageId": "960545835911884960"
+    },
+    {
+      "challengeName": "speedrun 2.03",
+      "points": 10,
+      "channelId": "924815892141994015",
+      "messageId": "926550140976791572"
+    }
+  ]
+}

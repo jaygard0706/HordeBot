@@ -1,0 +1,59 @@
+{
+  "combos": [
+    {
+      "name": "katars",
+      "inputs": "slight --> jump dair --> slight --> jump dair --> jump gp",
+      "link": "https://cdn.discordapp.com/attachments/925636357773213706/953477641858605056/2022-03-15_22-16-58.mp4"
+    },
+    {
+      "name": "greatsword",
+      "inputs": "nlight --> slight --> CD slight --> nlight --> dlight",
+      "link": "https://cdn.discordapp.com/attachments/925636357773213706/936867241918619668/2022-01-29_01-14-02.mp4"
+    },
+    {
+      "name": "volkov",
+      "inputs": "scythe ssig",
+      "link": "https://media.discordapp.net/attachments/925636357773213706/949778608937914448/horde_tech_11.mp4"
+    },
+    {
+      "name": "ada",
+      "inputs": "spear slight --> nsig",
+      "link": "https://media.discordapp.net/attachments/925636357773213706/949157481693728789/horde_tech_8.mp4"
+    },
+    {
+      "name": "yumiko",
+      "inputs": "slight --> nlight --> nsig",
+      "link": "https://media.discordapp.net/attachments/925636357773213706/934709294513946644/2022-01-23_02-19-11.mp4"
+    },
+    {
+      "name": "orb",
+      "inputs": "slight --> sair --> CD dair--> jump gp",
+      "link": "https://media.discordapp.net/attachments/925636357773213706/928905367717556274/2022-01-07_01-54-17.mp4"
+    },
+    {
+      "name": "nix",
+      "inputs": "scythe slight --> dlight--> jump gc dsig",
+      "link": "https://media.discordapp.net/attachments/925636357773213706/928525042923499540/2022-01-06_00-45-00.mp4"
+    },
+    {
+      "name": "unarmed",
+      "inputs": "nlight --> dlight --> jump dair --> jump gp",
+      "link": "https://gfycat.com/thatwaterloggedenglishpointer"
+    },
+    {
+      "name": "thor",
+      "inputs": "hammer nlight --> slight --> ssig",
+      "link": "https://media.discordapp.net/attachments/925636357773213706/925640651624824862/2021-12-28_12-37-28.mp4"
+    },
+    {
+      "name": "lance",
+      "inputs": "slight --> jump dair --> slight --> jump dair -->sair",
+      "link": "https://cdn.discordapp.com/attachments/925636357773213706/958930340934733895/2022-03-30_23-25-14.mp4"
+    },
+    {
+      "name": "sword",
+      "inputs": "nlight --> dlight --> jump gp --> gp",
+      "link": "https://cdn.discordapp.com/attachments/925636357773213706/958932063547953152/2022-03-30_23-32-24.mp4"
+    }
+  ]
+}
