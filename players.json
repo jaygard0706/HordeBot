@@ -1,12 +1,16 @@
 {
   "players": [
     {
-      "id": "292019012932599808",
-      "points": 560,
+      "id": "422184269025247233",
+      "points": 214,
       "challenges": [
         {
           "challengeName": "2p Wave 9",
           "points": 1
+        },
+        {
+          "challengeName": "2p Wave 26",
+          "points": 6
         },
         {
           "challengeName": "2p Wave 13",
@@ -17,20 +21,44 @@
           "points": 4
         },
         {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
           "challengeName": "2p Wave 29",
           "points": 7
         },
         {
-          "challengeName": "2p Wave 34",
+          "challengeName": "2p Unarmed",
+          "points": 8
+        },
+        {
+          "challengeName": "3p Wave 26",
+          "points": 7
+        },
+        {
+          "challengeName": "3p Wave 30",
           "points": 9
         },
         {
-          "challengeName": "2p Wave 40",
+          "challengeName": "3p 7 min",
+          "points": 7.5
+        },
+        {
+          "challengeName": "3p Overqualified",
           "points": 9.5
+        },
+        {
+          "challengeName": "3p VIP",
+          "points": 9
+        },
+        {
+          "challengeName": "4p Wave 26",
+          "points": 8
+        },
+        {
+          "challengeName": "4p Wave 28",
+          "points": 9
+        },
+        {
+          "challengeName": "4p Wave 22 hitless",
+          "points": 8
         },
         {
           "challengeName": "1p Wave 6",
@@ -53,99 +81,31 @@
           "points": 7
         },
         {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Wave 26",
+          "challengeName": "1p Wave 21",
           "points": 8
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
         },
         {
           "challengeName": "1p Gruagach",
           "points": 4
         },
         {
-          "challengeName": "3p Triplets",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
           "challengeName": "2p Yin and Yang",
           "points": 7
         },
         {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8
+          "challengeName": "2p 7 min",
+          "points": 7.5
         },
         {
           "challengeName": "2p Out of Bounds",
           "points": 7.5
         },
         {
-          "challengeName": "2p Floored",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Ai Manipulation",
+          "challengeName": "2p Wave 34",
           "points": 9
         },
         {
           "challengeName": "2p Twinsies",
-          "points": 8
-        },
-        {
-          "challengeName": "3p Throwing: The Game",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Centralized",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Tag Teams",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Combo Breaker",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Airborne",
           "points": 8
         },
         {
@@ -169,173 +129,23 @@
           "points": 7
         },
         {
-          "challengeName": "4p Red Dread",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Horde Blues",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Anti-Vegan Squad",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Sacrificial Ritual",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Not So Mellow Yellows",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Planned Demolition",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Gruagach Strikes Back",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p When Pigs Fly",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Valhallan Roulette",
-          "points": 0
-        },
-        {
-          "challengeName": "4p Increments",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Wave 50",
-          "points": 10
-        },
-        {
-          "challengeName": "4p Damage Control",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Switch-Off",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Rock, Paper, Scissors",
-          "points": 0
-        },
-        {
-          "challengeName": "1p Indecisive",
-          "points": 6
-        },
-        {
           "challengeName": "speedrun 2.10",
           "points": 8.5
-        },
-        {
-          "challengeName": "3p Reinforcements",
-          "points": 9.5
         },
         {
           "challengeName": "speedrun 2.06",
           "points": 9.5
         },
         {
-          "challengeName": "1p Wave 21",
-          "points": 8,
-          "channelId": "914314515695427634",
-          "messageId": "914339267717763072"
-        },
-        {
-          "challengeName": "4p Weapon or No Weapon",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932928709390893086"
-        },
-        {
-          "challengeName": "speedrun 2.03",
-          "points": 10,
-          "channelId": "924815892141994015",
-          "messageId": "926550140976791572"
-        },
-        {
-          "challengeName": "3p True Teamwork",
-          "points": 0,
-          "channelId": "931568713533100083",
-          "messageId": "932923990106849291"
-        },
-        {
-          "challengeName": "4p Slow Drip",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "925021872578506873"
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932798556761362512"
-        },
-        {
-          "challengeName": "1p Wave 24",
-          "points": 9,
-          "channelId": "914314515695427634",
-          "messageId": "914339303214178344"
-        },
-        {
-          "challengeName": "2p The Chosen Pigslayer",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "947627898850934824"
-        },
-        {
-          "challengeName": "4p Overqualified: Part 2",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "948210818003116082"
-        },
-        {
-          "challengeName": "1p On Solid Ground",
-          "points": 8.5,
-          "channelId": "914314515695427634",
-          "messageId": "932930950776627230"
-        },
-        {
-          "challengeName": "2p Taking Turns",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "932924835238117426"
-        },
-        {
-          "challengeName": "3p Pushing the Envelope",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "948459888600838164"
-        },
-        {
-          "challengeName": "1p Precognition",
-          "points": 9,
-          "channelId": "914314515695427634",
-          "messageId": "922567443140997121"
+          "challengeName": "2p Wave 40",
+          "points": 9.5
         }
       ],
       "pointsSpent": 0
     },
     {
       "id": "885295613971935243",
-      "points": 557,
+      "points": 300,
       "challenges": [
         {
           "challengeName": "2p Wave 9",
@@ -402,7 +212,7 @@
           "points": 10
         },
         {
-          "challengeName": "3p Divided but Whole",
+          "challengeName": "3p VIP",
           "points": 9
         },
         {
@@ -430,7 +240,7 @@
           "points": 6
         },
         {
-          "challengeName": "1p Precognition",
+          "challengeName": "1p Wave 26 Unarmed",
           "points": 9
         },
         {
@@ -479,7 +289,7 @@
         },
         {
           "challengeName": "2p Flawless",
-          "points": 9.5
+          "points": 9
         },
         {
           "challengeName": "2p Floored",
@@ -498,157 +308,15 @@
           "points": 9
         },
         {
-          "challengeName": "4p Overqualified",
+          "challengeName": "3p Overqualified",
           "points": 9.5
-        },
-        {
-          "challengeName": "3p Throwing: The Game",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Centralized",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8
-        },
-        {
-          "challengeName": "3p Switch-Off",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Combo Breaker",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Tag Teams",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Red Dread",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Horde Blues",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Anti-Vegan Squad",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Sacrificial Ritual",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Damage Control",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Not So Mellow Yellows",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Planned Demolition",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Gruagach Strikes Back",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p When Pigs Fly",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Valhallan Roulette",
-          "points": 0
-        },
-        {
-          "challengeName": "4p Platform Bound",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Increments",
-          "points": 9.5
-        },
-        {
-          "challengeName": "1p On Solid Ground",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Weapon or No Weapon",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Taking Turns",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Rock, Paper, Scissors",
-          "points": 0
-        },
-        {
-          "challengeName": "3p True Teamwork",
-          "points": 0,
-          "channelId": "931568713533100083",
-          "messageId": "932923990106849291"
-        },
-        {
-          "challengeName": "2p Pocket Horde",
-          "points": 0,
-          "channelId": "931568713533100083",
-          "messageId": "935202742056648755"
-        },
-        {
-          "challengeName": "2p The Chosen Pigslayer",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "947627898850934824"
-        },
-        {
-          "challengeName": "3p Pushing the Envelope",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "948459888600838164"
-        },
-        {
-          "challengeName": "4p Overqualified: Part 2",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "948210818003116082"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
-        },
-        {
-          "challengeName": "2p Destroying the Meta",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "960545835911884960"
         }
       ],
       "pointsSpent": 0
     },
     {
       "id": "282189722682392578",
-      "points": 540.5,
+      "points": 256,
       "challenges": [
         {
           "challengeName": "3p Reinforcements",
@@ -659,7 +327,7 @@
           "points": 9.5
         },
         {
-          "challengeName": "3p Divided but Whole",
+          "challengeName": "3p VIP",
           "points": 9
         },
         {
@@ -764,7 +432,7 @@
         },
         {
           "challengeName": "2p Flawless",
-          "points": 9.5
+          "points": 9
         },
         {
           "challengeName": "2p Floored",
@@ -801,877 +469,18 @@
         {
           "challengeName": "2p Twinsies",
           "points": 8
-        },
-        {
-          "challengeName": "1p Indecisive",
-          "points": 6
-        },
-        {
-          "challengeName": "3p Centralized",
-          "points": 9
-        },
-        {
-          "challengeName": "3p Combo Breaker",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "1p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Airborne",
-          "points": 8
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "4p Horde Blues",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Anti-Vegan Squad",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Sacrificial Ritual",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Not So Mellow Yellows",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Planned Demolition",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Gruagach Strikes Back",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p When Pigs Fly",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Valhallan Roulette",
-          "points": 0
-        },
-        {
-          "challengeName": "4p Platform Bound",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Increments",
-          "points": 9.5
-        },
-        {
-          "challengeName": "1p Precognition",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Throwing: The Game",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Taking Turns",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932798556761362512"
-        },
-        {
-          "challengeName": "3p True Teamwork",
-          "points": 0,
-          "channelId": "931568713533100083",
-          "messageId": "932923990106849291"
-        },
-        {
-          "challengeName": "2p Wave 50",
-          "points": 10,
-          "channelId": "914314578442203176",
-          "messageId": "914340293661302844"
-        },
-        {
-          "challengeName": "1p On Solid Ground",
-          "points": 8.5,
-          "channelId": "914314515695427634",
-          "messageId": "932930950776627230"
-        },
-        {
-          "challengeName": "3p Triplets",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "924976934226653234"
-        },
-        {
-          "challengeName": "4p Overqualified: Part 2",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "948210818003116082"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
-        },
-        {
-          "challengeName": "2p Destroying the Meta",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "960545835911884960"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "534806520232280068",
-      "points": 445,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5
-        },
-        {
-          "challengeName": "2p Airborne",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Tag Teams",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Combo Breaker",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Red Dread",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Horde Blues",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Damage Control",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Planned Demolition",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Gruagach Strikes Back",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p When Pigs Fly",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Valhallan Roulette",
-          "points": 0
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Platform Bound",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Increments",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Weapon or No Weapon",
-          "points": 9.5
-        },
-        {
-          "challengeName": "speedrun 3.15",
-          "points": 1
-        },
-        {
-          "challengeName": "speedrun 3.00",
-          "points": 2
-        },
-        {
-          "challengeName": "speedrun 2.40",
-          "points": 4.5
-        },
-        {
-          "challengeName": "speedrun 2.30",
-          "points": 6
-        },
-        {
-          "challengeName": "speedrun 2.20",
-          "points": 7
-        },
-        {
-          "challengeName": "speedrun 2.10",
-          "points": 8.5
-        },
-        {
-          "challengeName": "speedrun 2.06",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7
-        },
-        {
-          "challengeName": "4p Slow Drip",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "925021872578506873"
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "929456841136685066"
-        },
-        {
-          "challengeName": "1p Wave 21",
-          "points": 8,
-          "channelId": "914314515695427634",
-          "messageId": "914339267717763072"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "1p Precognition",
-          "points": 9,
-          "channelId": "914314515695427634",
-          "messageId": "922567443140997121"
-        },
-        {
-          "challengeName": "1p Indecisive",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "924997200432496690"
-        },
-        {
-          "challengeName": "4p Anti-Vegan Squad",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "928101293313118219"
-        },
-        {
-          "challengeName": "2p The Chosen Pigslayer",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "947627898850934824"
-        },
-        {
-          "challengeName": "4p Overqualified: Part 2",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "948210818003116082"
-        },
-        {
-          "challengeName": "3p Pushing the Envelope",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "948459888600838164"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "767943713670168597",
-      "points": 366,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4
-        },
-        {
-          "challengeName": "3p Triplets",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5
-        },
-        {
-          "challengeName": "3p Reinforcements",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Ai Manipulation",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Tag Teams",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Combo Breaker",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Red Dread",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Horde Blues",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Sacrificial Ritual",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Airborne",
-          "points": 8
-        },
-        {
-          "challengeName": "3p Throwing: The Game",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Switch-Off",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Damage Control",
-          "points": 9.5
-        },
-        {
-          "challengeName": "1p Wave 21",
-          "points": 8,
-          "channelId": "914314515695427634",
-          "messageId": "914339267717763072"
-        },
-        {
-          "challengeName": "4p Weapon or No Weapon",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932928709390893086"
-        },
-        {
-          "challengeName": "2p Pocket Horde",
-          "points": 0,
-          "channelId": "931568713533100083",
-          "messageId": "935202742056648755"
-        },
-        {
-          "challengeName": "4p Overqualified: Part 2",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "948210818003116082"
-        },
-        {
-          "challengeName": "3p Pushing the Envelope",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "948459888600838164"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "422184269025247233",
-      "points": 359,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7
-        },
-        {
-          "challengeName": "1p Wave 21",
-          "points": 8
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8
-        },
-        {
-          "challengeName": "speedrun 3.15",
-          "points": 1
-        },
-        {
-          "challengeName": "speedrun 3.00",
-          "points": 2
-        },
-        {
-          "challengeName": "speedrun 2.40",
-          "points": 4.5
-        },
-        {
-          "challengeName": "speedrun 2.30",
-          "points": 6
-        },
-        {
-          "challengeName": "speedrun 2.20",
-          "points": 7
-        },
-        {
-          "challengeName": "speedrun 2.10",
-          "points": 8.5
-        },
-        {
-          "challengeName": "speedrun 2.06",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Throwing: The Game",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Increments",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Wave 50",
-          "points": 10
-        },
-        {
-          "challengeName": "speedrun 2.03",
-          "points": 10
-        },
-        {
-          "challengeName": "3p Reinforcements",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Switch-Off",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "4p Slow Drip",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "925021872578506873"
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "929456841136685066"
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932798556761362512"
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "926540878984654858"
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5,
-          "channelId": "914314578442203176",
-          "messageId": "925005512662220810"
-        },
-        {
-          "challengeName": "1p Wave 24",
-          "points": 9,
-          "channelId": "914314515695427634",
-          "messageId": "914339303214178344"
-        },
-        {
-          "challengeName": "4p Overqualified: Part 2",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "948210818003116082"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
         }
       ],
       "pointsSpent": 0
     },
     {
       "id": "491340185343361026",
-      "points": 317.5,
+      "points": 160.5,
       "challenges": [
+        {
+          "challengeName": "2p Wave 9",
+          "points": 1
+        },
         {
           "challengeName": "2p Wave 13",
           "points": 2
@@ -1697,11 +506,11 @@
           "points": 9.5
         },
         {
-          "challengeName": "4p Overqualified",
+          "challengeName": "3p Overqualified",
           "points": 9.5
         },
         {
-          "challengeName": "3p Divided but Whole",
+          "challengeName": "3p VIP",
           "points": 9
         },
         {
@@ -1725,6 +534,14 @@
           "points": 7
         },
         {
+          "challengeName": "3p Wave 30",
+          "points": 9
+        },
+        {
+          "challengeName": "2p Locked In",
+          "points": 8.5
+        },
+        {
           "challengeName": "2p Yin and Yang",
           "points": 7
         },
@@ -1753,1238 +570,8 @@
           "points": 9.5
         },
         {
-          "challengeName": "3p Combo Breaker",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Anti-Vegan Squad",
-          "points": 9
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932798556761362512"
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "916268808153493504"
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "926540878984654858"
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "925015588504477716"
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5,
-          "channelId": "914314578442203176",
-          "messageId": "925005512662220810"
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924971251984916500"
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9,
-          "channelId": "914314612449636433",
-          "messageId": "914348752528113684"
-        },
-        {
-          "challengeName": "4p Damage Control",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "929464469208301589"
-        },
-        {
-          "challengeName": "4p Sacrificial Ritual",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "924978457308459109"
-        },
-        {
-          "challengeName": "4p Horde Blues",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "924975639361105950"
-        },
-        {
-          "challengeName": "4p Red Dread",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "924976103662174208"
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "916267534162993192"
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "914349104614744105"
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
-        },
-        {
-          "challengeName": "2p Flawless",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "916269625682063370"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "580823391997788190",
-      "points": 317,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7
-        },
-        {
-          "challengeName": "1p Wave 21",
-          "points": 8
-        },
-        {
-          "challengeName": "1p Wave 24",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
-        },
-        {
           "challengeName": "2p Twinsies",
           "points": 8
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4
-        },
-        {
-          "challengeName": "1p Indecisive",
-          "points": 6
-        },
-        {
-          "challengeName": "4p Weapon or No Weapon",
-          "points": 9.5
-        },
-        {
-          "challengeName": "speedrun 3.15",
-          "points": 1
-        },
-        {
-          "challengeName": "speedrun 3.00",
-          "points": 2
-        },
-        {
-          "challengeName": "speedrun 2.40",
-          "points": 4.5
-        },
-        {
-          "challengeName": "speedrun 2.30",
-          "points": 6
-        },
-        {
-          "challengeName": "speedrun 2.20",
-          "points": 7
-        },
-        {
-          "challengeName": "speedrun 2.10",
-          "points": 8.5
-        },
-        {
-          "challengeName": "speedrun 2.06",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5
-        },
-        {
-          "challengeName": "2p Airborne",
-          "points": 8
-        },
-        {
-          "challengeName": "1p On Solid Ground",
-          "points": 8.5
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "916267534162993192"
-        },
-        {
-          "challengeName": "4p Platform Bound",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "924984561128071209"
-        },
-        {
-          "challengeName": "4p Increments",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "929154676736274443"
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "914349104614744105"
-        },
-        {
-          "challengeName": "2p The Chosen Pigslayer",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "947627898850934824"
-        },
-        {
-          "challengeName": "4p Overqualified: Part 2",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "948210818003116082"
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "929456841136685066"
-        },
-        {
-          "challengeName": "2p Ai Manipulation",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "926505848308654120"
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "914340211532648449"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "793532385148141649",
-      "points": 290.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7
-        },
-        {
-          "challengeName": "4p Slow Drip",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9
-        },
-        {
-          "challengeName": "1p Indecisive",
-          "points": 6
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "4p Increments",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Airborne",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Throwing: The Game",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Valhallan Roulette",
-          "points": 0
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Damage Control",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Pocket Horde",
-          "points": 0
-        },
-        {
-          "challengeName": "3p Combo Breaker",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "928102210645143583"
-        },
-        {
-          "challengeName": "4p Horde Blues",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "924975639361105950"
-        },
-        {
-          "challengeName": "4p Weapon or No Weapon",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932928709390893086"
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7,
-          "channelId": "914314515695427634",
-          "messageId": "914339182120427540"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "937277006809276426",
-      "points": 269,
-      "challenges": [
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "925015588504477716"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "924970296212082719"
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "914348376563273768"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1,
-          "channelId": "914314515695427634",
-          "messageId": "914339065707528202"
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2,
-          "channelId": "914314515695427634",
-          "messageId": "914339095365451777"
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5,
-          "channelId": "914314612449636433",
-          "messageId": "914348771683495996"
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "914339126118064159"
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932798556761362512"
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "928097419827232828"
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "914347087313928232"
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "916268808153493504"
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "914339154832273440"
-        },
-        {
-          "challengeName": "4p Anti-Vegan Squad",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "928101293313118219"
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "916267534162993192"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924971251984916500"
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "929156399659892747"
-        },
-        {
-          "challengeName": "3p Pushing the Envelope",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "948459888600838164"
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "929456841136685066"
-        },
-        {
-          "challengeName": "speedrun 2.40",
-          "points": 4.5,
-          "channelId": "924815892141994015",
-          "messageId": "926547651409874944"
-        },
-        {
-          "challengeName": "speedrun 3.00",
-          "points": 2,
-          "channelId": "924815892141994015",
-          "messageId": "926547477455331398"
-        },
-        {
-          "challengeName": "speedrun 3.15",
-          "points": 1,
-          "channelId": "924815892141994015",
-          "messageId": "926547060025593919"
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "914349104614744105"
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "926540878984654858"
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7,
-          "channelId": "914314515695427634",
-          "messageId": "914339182120427540"
-        },
-        {
-          "challengeName": "1p Wave 21",
-          "points": 8,
-          "channelId": "914314515695427634",
-          "messageId": "914339267717763072"
-        },
-        {
-          "challengeName": "2p The Chosen Pigslayer",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "947627898850934824"
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9,
-          "channelId": "914314612449636433",
-          "messageId": "914348752528113684"
-        },
-        {
-          "challengeName": "1p Precognition",
-          "points": 9,
-          "channelId": "914314515695427634",
-          "messageId": "922567443140997121"
-        },
-        {
-          "challengeName": "2p Ai Manipulation",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "926505848308654120"
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5,
-          "channelId": "914314578442203176",
-          "messageId": "925005512662220810"
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "914340211532648449"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "293132125190750208",
-      "points": 206,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7
-        },
-        {
-          "challengeName": "1p Wave 21",
-          "points": 8
-        },
-        {
-          "challengeName": "1p Wave 24",
-          "points": 9
-        },
-        {
-          "challengeName": "1p Wave 26",
-          "points": 10
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8
-        },
-        {
-          "challengeName": "4p Wave 28",
-          "points": 9
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "speedrun 3.15",
-          "points": 1
-        },
-        {
-          "challengeName": "speedrun 3.00",
-          "points": 2
-        },
-        {
-          "challengeName": "speedrun 2.40",
-          "points": 4.5
-        },
-        {
-          "challengeName": "speedrun 2.30",
-          "points": 6
-        },
-        {
-          "challengeName": "speedrun 2.20",
-          "points": 7
-        },
-        {
-          "challengeName": "speedrun 2.10",
-          "points": 8.5
-        },
-        {
-          "challengeName": "speedrun 2.06",
-          "points": 9.5
-        },
-        {
-          "challengeName": "speedrun 2.03",
-          "points": 10
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "3p Throwing: The Game",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Wave 50",
-          "points": 10
-        },
-        {
-          "challengeName": "3p Triplets",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "924976934226653234"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "456900573719953419",
-      "points": 204.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1,
-          "channelId": "914314515695427634",
-          "messageId": "914339065707528202"
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2,
-          "channelId": "914314515695427634",
-          "messageId": "914339095365451777"
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "914339126118064159"
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "916268808153493504"
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5,
-          "channelId": "914314612449636433",
-          "messageId": "914348771683495996"
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "914347087313928232"
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "914348376563273768"
-        },
-        {
-          "challengeName": "4p Anti-Vegan Squad",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "928101293313118219"
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "916267534162993192"
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924971251984916500"
-        },
-        {
-          "challengeName": "3p Pushing the Envelope",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "948459888600838164"
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "929456841136685066"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7,
-          "channelId": "914314515695427634",
-          "messageId": "914339182120427540"
-        },
-        {
-          "challengeName": "1p Wave 21",
-          "points": 8,
-          "channelId": "914314515695427634",
-          "messageId": "914339267717763072"
-        },
-        {
-          "challengeName": "1p Indecisive",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "924997200432496690"
-        },
-        {
-          "challengeName": "1p Precognition",
-          "points": 9,
-          "channelId": "914314515695427634",
-          "messageId": "922567443140997121"
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "929156399659892747"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "926540878984654858"
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5,
-          "channelId": "914314578442203176",
-          "messageId": "925005512662220810"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "555501614543273986",
-      "points": 185.5,
-      "challenges": [
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "1p Indecisive",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "924997200432496690"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "924970296212082719"
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "925015588504477716"
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924971251984916500"
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "929456841136685066"
-        },
-        {
-          "challengeName": "4p Anti-Vegan Squad",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "928101293313118219"
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9,
-          "channelId": "914314612449636433",
-          "messageId": "914348752528113684"
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5,
-          "channelId": "914314612449636433",
-          "messageId": "914348771683495996"
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "928097419827232828"
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "914347087313928232"
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "914348376563273768"
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "916267534162993192"
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7,
-          "channelId": "914314515695427634",
-          "messageId": "914339182120427540"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5,
-          "channelId": "914314578442203176",
-          "messageId": "925005512662220810"
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "926540878984654858"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
         }
       ],
       "pointsSpent": 0
@@ -3113,825 +700,321 @@
       "pointsSpent": 0
     },
     {
-      "id": "833777617521213501",
-      "points": 172.5,
+      "id": "767943713670168597",
+      "points": 170,
       "challenges": [
         {
-          "challengeName": "4p Valhallan Roulette",
-          "points": 0,
-          "channelId": "931568713533100083",
-          "messageId": "931575161306640384"
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "916268808153493504"
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1,
-          "channelId": "914314515695427634",
-          "messageId": "914339065707528202"
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2,
-          "channelId": "914314515695427634",
-          "messageId": "914339095365451777"
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "914339126118064159"
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "914339154832273440"
-        },
-        {
           "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
+          "points": 1
         },
         {
           "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
+          "points": 2
         },
         {
           "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
+          "points": 4
         },
         {
           "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
+          "points": 6
         },
         {
           "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
+          "points": 7
         },
         {
           "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
+          "points": 9
         },
         {
-          "challengeName": "2p Wave 40",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "914340211532648449"
+          "challengeName": "1p Wave 6",
+          "points": 1
         },
         {
-          "challengeName": "2p 7 min",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "914348376563273768"
+          "challengeName": "1p Wave 8",
+          "points": 2
         },
         {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "925015588504477716"
+          "challengeName": "1p Wave 13",
+          "points": 4
         },
         {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
+          "challengeName": "1p Wave 16",
+          "points": 6
         },
         {
-          "challengeName": "3p Wave 30",
-          "points": 9,
-          "channelId": "914314612449636433",
-          "messageId": "914348752528113684"
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5,
-          "channelId": "914314612449636433",
-          "messageId": "914348771683495996"
+          "challengeName": "1p Wave 18",
+          "points": 7
         },
         {
           "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
+          "points": 8
         },
         {
           "challengeName": "4p Wave 28",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "914349104614744105"
+          "points": 9
+        },
+        {
+          "challengeName": "2p Unarmed",
+          "points": 8
+        },
+        {
+          "challengeName": "2p 7 min",
+          "points": 7.5
+        },
+        {
+          "challengeName": "3p Wave 26",
+          "points": 7
+        },
+        {
+          "challengeName": "3p Wave 30",
+          "points": 9
+        },
+        {
+          "challengeName": "3p 7 min",
+          "points": 7.5
+        },
+        {
+          "challengeName": "3p Overqualified",
+          "points": 9.5
+        },
+        {
+          "challengeName": "3p VIP",
+          "points": 9
         },
         {
           "challengeName": "4p Wave 22 hitless",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "916267534162993192"
+          "points": 8
+        },
+        {
+          "challengeName": "1p Gruagach",
+          "points": 4
+        },
+        {
+          "challengeName": "3p Triplets",
+          "points": 9.5
+        },
+        {
+          "challengeName": "2p Yin and Yang",
+          "points": 7
+        },
+        {
+          "challengeName": "2p Locked In",
+          "points": 8.5
+        },
+        {
+          "challengeName": "3p Reinforcements",
+          "points": 9.5
+        }
+      ],
+      "pointsSpent": 0
+    },
+    {
+      "id": "793532385148141649",
+      "points": 122,
+      "challenges": [
+        {
+          "challengeName": "2p Wave 9",
+          "points": 1
+        },
+        {
+          "challengeName": "1p Wave 6",
+          "points": 1
+        },
+        {
+          "challengeName": "1p Wave 8",
+          "points": 2
+        },
+        {
+          "challengeName": "1p Wave 13",
+          "points": 4
+        },
+        {
+          "challengeName": "1p Wave 16",
+          "points": 6
+        },
+        {
+          "challengeName": "2p Wave 13",
+          "points": 2
+        },
+        {
+          "challengeName": "2p Wave 18",
+          "points": 4
+        },
+        {
+          "challengeName": "2p Wave 26",
+          "points": 6
+        },
+        {
+          "challengeName": "2p Wave 29",
+          "points": 7
+        },
+        {
+          "challengeName": "2p Wave 34",
+          "points": 9
+        },
+        {
+          "challengeName": "3p Wave 26",
+          "points": 7
+        },
+        {
+          "challengeName": "4p Wave 26",
+          "points": 8
+        },
+        {
+          "challengeName": "4p Wave 28",
+          "points": 9
+        },
+        {
+          "challengeName": "2p Unarmed",
+          "points": 8
+        },
+        {
+          "challengeName": "3p VIP",
+          "points": 9
+        },
+        {
+          "challengeName": "1p Gruagach",
+          "points": 4
+        },
+        {
+          "challengeName": "2p Yin and Yang",
+          "points": 7
         },
         {
           "challengeName": "4p Slow Drip",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "925021872578506873"
+          "points": 9.5
+        },
+        {
+          "challengeName": "3p Overqualified",
+          "points": 9.5
+        },
+        {
+          "challengeName": "3p Wave 30",
+          "points": 9
+        }
+      ],
+      "pointsSpent": 0
+    },
+    {
+      "id": "293132125190750208",
+      "points": 167.5,
+      "challenges": [
+        {
+          "challengeName": "2p Wave 9",
+          "points": 1
+        },
+        {
+          "challengeName": "2p Wave 13",
+          "points": 2
+        },
+        {
+          "challengeName": "2p Wave 18",
+          "points": 4
+        },
+        {
+          "challengeName": "2p Wave 26",
+          "points": 6
+        },
+        {
+          "challengeName": "2p Wave 29",
+          "points": 7
+        },
+        {
+          "challengeName": "2p Wave 34",
+          "points": 9
+        },
+        {
+          "challengeName": "2p Wave 40",
+          "points": 9.5
+        },
+        {
+          "challengeName": "1p Wave 6",
+          "points": 1
+        },
+        {
+          "challengeName": "1p Wave 8",
+          "points": 2
+        },
+        {
+          "challengeName": "1p Wave 13",
+          "points": 4
+        },
+        {
+          "challengeName": "1p Wave 16",
+          "points": 6
+        },
+        {
+          "challengeName": "1p Wave 18",
+          "points": 7
         },
         {
           "challengeName": "1p Wave 21",
-          "points": 8,
-          "channelId": "914314515695427634",
-          "messageId": "914339267717763072"
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7,
-          "channelId": "914314515695427634",
-          "messageId": "914339182120427540"
-        },
-        {
-          "challengeName": "speedrun 3.15",
-          "points": 1,
-          "channelId": "924815892141994015",
-          "messageId": "926547060025593919"
-        },
-        {
-          "challengeName": "speedrun 3.00",
-          "points": 2,
-          "channelId": "924815892141994015",
-          "messageId": "926547477455331398"
-        },
-        {
-          "challengeName": "speedrun 2.40",
-          "points": 4.5,
-          "channelId": "924815892141994015",
-          "messageId": "926547651409874944"
-        },
-        {
-          "challengeName": "speedrun 2.30",
-          "points": 6,
-          "channelId": "924815892141994015",
-          "messageId": "926548455004991569"
-        },
-        {
-          "challengeName": "speedrun 2.20",
-          "points": 7,
-          "channelId": "924815892141994015",
-          "messageId": "926548696039047258"
-        },
-        {
-          "challengeName": "speedrun 2.10",
-          "points": 8.5,
-          "channelId": "924815892141994015",
-          "messageId": "926548997722767420"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "940018015397871667",
-      "points": 145.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Floored",
           "points": 8
         },
         {
-          "challengeName": "2p Locked In",
-          "points": 8.5
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
+          "challengeName": "1p Wave 24",
           "points": 9
         },
         {
-          "challengeName": "1p Gruagach",
-          "points": 4
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "924970296212082719"
-        },
-        {
-          "challengeName": "2p Airborne",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924973148896657408"
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "928097419827232828"
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924971251984916500"
-        },
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "929156399659892747"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "934844326280831096",
-      "points": 136,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Floored",
-          "points": 8
-        },
-        {
-          "challengeName": "2p Locked In",
-          "points": 8.5
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4
-        },
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "924970296212082719"
-        },
-        {
-          "challengeName": "2p Airborne",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924973148896657408"
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "928097419827232828"
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924971251984916500"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "530983691825184779",
-      "points": 91.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
+          "challengeName": "1p Wave 26",
+          "points": 10
         },
         {
           "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Twinsies",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "924971251984916500"
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "924970296212082719"
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "916268808153493504"
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "914339154832273440"
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7,
-          "channelId": "914314515695427634",
-          "messageId": "914339182120427540"
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "932798556761362512"
-        },
-        {
-          "challengeName": "4p Wave 22 hitless",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "916267534162993192"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "514214824448753666",
-      "points": 87.5,
-      "challenges": [
-        {
-          "challengeName": "3p Divided but Whole",
-          "points": 9
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1,
-          "channelId": "914314515695427634",
-          "messageId": "914339065707528202"
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2,
-          "channelId": "914314515695427634",
-          "messageId": "914339095365451777"
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "914339126118064159"
-        },
-        {
-          "challengeName": "speedrun 3.15",
-          "points": 1,
-          "channelId": "924815892141994015",
-          "messageId": "926547060025593919"
-        },
-        {
-          "challengeName": "speedrun 3.00",
-          "points": 2,
-          "channelId": "924815892141994015",
-          "messageId": "926547477455331398"
-        },
-        {
-          "challengeName": "speedrun 2.40",
-          "points": 4.5,
-          "channelId": "924815892141994015",
-          "messageId": "926547651409874944"
-        },
-        {
-          "challengeName": "speedrun 2.30",
-          "points": 6,
-          "channelId": "924815892141994015",
-          "messageId": "926548455004991569"
-        },
-        {
-          "challengeName": "speedrun 2.20",
-          "points": 7,
-          "channelId": "924815892141994015",
-          "messageId": "926548696039047258"
-        },
-        {
-          "challengeName": "speedrun 2.10",
-          "points": 8.5,
-          "channelId": "924815892141994015",
-          "messageId": "926548997722767420"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "914339154832273440"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "428955066066534400",
-      "points": 78.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9,
-          "channelId": "914314612449636433",
-          "messageId": "914348752528113684"
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "924970296212082719"
-        },
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "916268808153493504"
-        },
-        {
-          "challengeName": "1p Wave 16",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "914339154832273440"
-        },
-        {
-          "challengeName": "4p RNGesus",
-          "points": 8.5,
-          "channelId": "914314656775032864",
-          "messageId": "929456841136685066"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "2p 7 min",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "914348376563273768"
-        },
-        {
-          "challengeName": "2p Out of Bounds",
-          "points": 7.5,
-          "channelId": "914314578442203176",
-          "messageId": "925015588504477716"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "439129442972073984",
-      "points": 57.5,
-      "challenges": [
-        {
-          "challengeName": "4p Damage Control",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Not So Mellow Yellows",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Flawless",
-          "points": 9.5
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "543802384791633921",
-      "points": 53,
-      "challenges": [
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9,
-          "channelId": "914314612449636433",
-          "messageId": "914348752528113684"
-        },
-        {
-          "challengeName": "2p Yin and Yang",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "924970296212082719"
+          "points": 8
         },
         {
           "challengeName": "4p Wave 28",
-          "points": 9,
-          "channelId": "914314656775032864",
-          "messageId": "914349104614744105"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "349548419339124738",
-      "points": 43.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "3p Divided but Whole",
           "points": 9
         },
         {
-          "challengeName": "3p 7 min",
+          "challengeName": "2p 7 min",
           "points": 7.5
+        },
+        {
+          "challengeName": "speedrun 3.15",
+          "points": 1
+        },
+        {
+          "challengeName": "speedrun 3.00",
+          "points": 2
+        },
+        {
+          "challengeName": "speedrun 2.40",
+          "points": 4.5
+        },
+        {
+          "challengeName": "speedrun 2.30",
+          "points": 6
+        },
+        {
+          "challengeName": "speedrun 2.20",
+          "points": 7
+        },
+        {
+          "challengeName": "speedrun 2.10",
+          "points": 8.5
+        },
+        {
+          "challengeName": "speedrun 2.06",
+          "points": 9.5
+        },
+        {
+          "challengeName": "speedrun 2.03",
+          "points": 10
+        },
+        {
+          "challengeName": "3p VIP",
+          "points": 9
         }
       ],
       "pointsSpent": 0
     },
     {
-      "id": "751148791561977936",
-      "points": 43,
+      "id": "292019012932599808",
+      "points": 161.5,
       "challenges": [
         {
           "challengeName": "2p Wave 9",
@@ -3954,26 +1037,13 @@
           "points": 7
         },
         {
-          "challengeName": "3p Wave 26",
-          "points": 7
+          "challengeName": "2p Wave 34",
+          "points": 9
         },
         {
-          "challengeName": "4p Wave 26",
-          "points": 8
+          "challengeName": "2p Wave 40",
+          "points": 9.5
         },
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "914347087313928232"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "567395420976709652",
-      "points": 42,
-      "challenges": [
         {
           "challengeName": "1p Wave 6",
           "points": 1
@@ -3991,280 +1061,67 @@
           "points": 6
         },
         {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "550066402074296350",
-      "points": 38.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "914340211532648449"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "922892567799005185",
-      "points": 38.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "2p Wave 40",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "914340211532648449"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "941152135838588988",
-      "points": 38,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "3p Wave 30",
-          "points": 9,
-          "channelId": "914314612449636433",
-          "messageId": "914348752528113684"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "451485941865906176",
-      "points": 37,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
+          "challengeName": "1p Wave 18",
           "points": 7
         },
         {
-          "challengeName": "2p Wave 34",
+          "challengeName": "3p Wave 26",
+          "points": 7
+        },
+        {
+          "challengeName": "3p Wave 30",
           "points": 9
         },
         {
           "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
+          "points": 8
+        },
+        {
+          "challengeName": "4p Wave 28",
+          "points": 9
+        },
+        {
+          "challengeName": "3p VIP",
+          "points": 9
+        },
+        {
+          "challengeName": "3p Overqualified",
+          "points": 9.5
+        },
+        {
+          "challengeName": "3p 7 min",
+          "points": 7.5
+        },
+        {
+          "challengeName": "2p 7 min",
+          "points": 7.5
+        },
+        {
+          "challengeName": "1p Gruagach",
+          "points": 4
+        },
+        {
+          "challengeName": "3p Triplets",
+          "points": 9.5
+        },
+        {
+          "challengeName": "2p Unarmed",
+          "points": 8
+        },
+        {
+          "challengeName": "2p Yin and Yang",
+          "points": 7
+        },
+        {
+          "challengeName": "4p Wave 22 hitless",
+          "points": 8
         }
       ],
       "pointsSpent": 0
     },
     {
-      "id": "550794930092769301",
-      "points": 35.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "1p Wave 18",
-          "points": 7,
-          "channelId": "914314515695427634",
-          "messageId": "914339182120427540"
-        },
-        {
-          "challengeName": "speedrun 2.10",
-          "points": 8.5,
-          "channelId": "924815892141994015",
-          "messageId": "926548997722767420"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "470475837351919616",
-      "points": 35,
+      "id": "534806520232280068",
+      "points": 136.5,
       "challenges": [
         {
           "challengeName": "2p Wave 9",
@@ -4291,558 +1148,115 @@
           "points": 7
         },
         {
+          "challengeName": "3p Wave 30",
+          "points": 9
+        },
+        {
+          "challengeName": "2p Unarmed",
+          "points": 8
+        },
+        {
+          "challengeName": "2p 7 min",
+          "points": 7.5
+        },
+        {
+          "challengeName": "3p 7 min",
+          "points": 7.5
+        },
+        {
+          "challengeName": "3p Overqualified",
+          "points": 9.5
+        },
+        {
           "challengeName": "4p Wave 26",
+          "points": 8
+        },
+        {
+          "challengeName": "2p Out of Bounds",
+          "points": 7.5
+        },
+        {
+          "challengeName": "2p Yin and Yang",
+          "points": 7
+        },
+        {
+          "challengeName": "2p Locked In",
+          "points": 8.5
+        },
+        {
+          "challengeName": "2p Airborne",
+          "points": 8
+        },
+        {
+          "challengeName": "2p Twinsies",
+          "points": 8
+        },
+        {
+          "challengeName": "2p Wave 34",
+          "points": 9
+        },
+        {
+          "challengeName": "1p Gruagach",
+          "points": 4
+        },
+        {
+          "challengeName": "2p Floored",
           "points": 8
         }
       ],
       "pointsSpent": 0
     },
     {
-      "id": "524288126785683494",
-      "points": 35,
+      "id": "833777617521213501",
+      "points": 58.5,
       "challenges": [
         {
+          "challengeName": "4p Slow Drip",
+          "points": 9.5
+        },
+        {
           "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
+          "points": 1
         },
         {
           "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
+          "points": 2
         },
         {
           "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
+          "points": 4
         },
         {
           "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
+          "points": 6
         },
         {
           "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
+          "points": 7
         },
         {
           "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
+          "points": 9
+        },
+        {
+          "challengeName": "1p Wave 6",
+          "points": 1
+        },
+        {
+          "challengeName": "1p Wave 8",
+          "points": 2
+        },
+        {
+          "challengeName": "1p Wave 13",
+          "points": 4
         },
         {
           "challengeName": "1p Wave 16",
-          "points": 6,
-          "channelId": "914314515695427634",
-          "messageId": "914339154832273440"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "794912609085554688",
-      "points": 32,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
           "points": 6
         },
         {
-          "challengeName": "4p Weapon or No Weapon",
-          "points": 9.5
-        },
-        {
-          "challengeName": "4p Throwing: The Game II",
-          "points": 9.5
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "760951920092643369",
-      "points": 30.5,
-      "challenges": [
-        {
-          "challengeName": "4p Overqualified",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "929156399659892747"
-        },
-        {
-          "challengeName": "4p Wave 26",
-          "points": 8,
-          "channelId": "914314656775032864",
-          "messageId": "914349078371008553"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "467414075815624727",
-      "points": 29.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
+          "challengeName": "1p Wave 18",
           "points": 7
-        },
-        {
-          "challengeName": "3p Throwing: The Game",
-          "points": 9.5
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "398644205062324245",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "422497342734991366",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "886331719857369119",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "805879974363791420",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "761037252008083457",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "395430190106411008",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "527970612921106443",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "402514966910861312",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "952995919710789702",
-      "points": 29,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "675787046920519768",
-      "points": 28,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Timed Waves",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "928097419827232828"
         }
       ],
       "pointsSpent": 0
@@ -4879,1519 +1293,177 @@
       "pointsSpent": 0
     },
     {
-      "id": "693556625016881172",
-      "points": 27,
+      "id": "555501614543273986",
+      "points": 30,
       "challenges": [
         {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
+          "challengeName": "1p Wave 6",
+          "points": 1
+        },
+        {
+          "challengeName": "1p Wave 8",
+          "points": 2
+        },
+        {
+          "challengeName": "1p Wave 13",
+          "points": 4
+        },
+        {
+          "challengeName": "1p Wave 16",
+          "points": 6
+        },
+        {
+          "challengeName": "1p Gruagach",
+          "points": 4
         },
         {
           "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
+          "points": 1
         },
         {
           "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
+          "points": 2
         },
         {
           "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
+          "points": 4
         },
         {
           "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
+          "points": 6
+        }
+      ],
+      "pointsSpent": 0
+    },
+    {
+      "id": "751148791561977936",
+      "points": 35,
+      "challenges": [
+        {
+          "challengeName": "2p Wave 9",
+          "points": 1
+        },
+        {
+          "challengeName": "2p Wave 13",
+          "points": 2
+        },
+        {
+          "challengeName": "2p Wave 18",
+          "points": 4
+        },
+        {
+          "challengeName": "2p Wave 26",
+          "points": 6
         },
         {
           "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
+          "points": 7
+        },
+        {
+          "challengeName": "3p Wave 26",
+          "points": 7
+        },
+        {
+          "challengeName": "4p Wave 26",
+          "points": 8
+        }
+      ],
+      "pointsSpent": 0
+    },
+    {
+      "id": "530983691825184779",
+      "points": 20,
+      "challenges": [
+        {
+          "challengeName": "2p Wave 9",
+          "points": 1
+        },
+        {
+          "challengeName": "2p Wave 13",
+          "points": 2
+        },
+        {
+          "challengeName": "2p Wave 18",
+          "points": 4
+        },
+        {
+          "challengeName": "2p Wave 26",
+          "points": 6
+        },
+        {
+          "challengeName": "1p Wave 6",
+          "points": 1
+        },
+        {
+          "challengeName": "1p Wave 8",
+          "points": 2
+        },
+        {
+          "challengeName": "1p Wave 13",
+          "points": 4
+        }
+      ],
+      "pointsSpent": 0
+    },
+    {
+      "id": "527970612921106443",
+      "points": 20,
+      "challenges": [
+        {
+          "challengeName": "2p Wave 9",
+          "points": 1
+        },
+        {
+          "challengeName": "2p Wave 13",
+          "points": 2
+        },
+        {
+          "challengeName": "2p Wave 18",
+          "points": 4
+        },
+        {
+          "challengeName": "2p Wave 26",
+          "points": 6
+        },
+        {
+          "challengeName": "2p Wave 29",
+          "points": 7
+        }
+      ],
+      "pointsSpent": 0
+    },
+    {
+      "id": "456900573719953419",
+      "points": 13,
+      "challenges": [
+        {
+          "challengeName": "2p Wave 26",
+          "points": 6
+        },
+        {
+          "challengeName": "2p Wave 9",
+          "points": 1
+        },
+        {
+          "challengeName": "2p Wave 13",
+          "points": 2
+        },
+        {
+          "challengeName": "2p Wave 18",
+          "points": 4
         }
       ],
       "pointsSpent": 0
     },
     {
       "id": "746596921782566983",
-      "points": 27,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "909418724598112357",
-      "points": 27,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "530514386050351135",
-      "points": 27,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        },
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "919901615014699049",
-      "points": 27,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "285908901252038656",
-      "points": 24,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        },
-        {
-          "challengeName": "3p 7 min",
-          "points": 7.5,
-          "channelId": "914314612449636433",
-          "messageId": "914348771683495996"
-        },
-        {
-          "challengeName": "3p Reinforcements",
-          "points": 9.5,
-          "channelId": "914314612449636433",
-          "messageId": "925028792609669130"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "776895403416616970",
-      "points": 22.5,
-      "challenges": [
-        {
-          "challengeName": "4p Tag Teams",
-          "points": 9.5,
-          "channelId": "914314656775032864",
-          "messageId": "926505343876477009"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "436640596908572683",
-      "points": 21,
-      "challenges": [
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "914347087313928232"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "923650944867119105",
-      "points": 20.5,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Disrupting the Meta",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "960545600359763998"
-        },
-        {
-          "challengeName": "2p Destroying the Meta",
-          "points": 9.5,
-          "channelId": "914314578442203176",
-          "messageId": "960545835911884960"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "792080830843322401",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "771858314987569182",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "388028762869989381",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        },
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "333336033058095106",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "706982689634385981",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "807197201201365002",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "1p Wave 6",
-          "points": 1,
-          "channelId": "914314515695427634",
-          "messageId": "914339065707528202"
-        },
-        {
-          "challengeName": "1p Wave 8",
-          "points": 2,
-          "channelId": "914314515695427634",
-          "messageId": "914339095365451777"
-        },
-        {
-          "challengeName": "1p Wave 13",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "914339126118064159"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "855137391295987712",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "919036915234271263",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "673086929037950998",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "803284585667362816",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "770030780150841374",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "445489264390570007",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "350331953095901184",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "401128751204794382",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "482263500404686858",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "707952153947537458",
-      "points": 20,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        },
-        {
-          "challengeName": "2p Wave 29",
-          "points": 7,
-          "channelId": "914314578442203176",
-          "messageId": "914340143559737404"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "801422015063916556",
-      "points": 17,
-      "challenges": [
-        {
-          "challengeName": "2p Floored",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "926540878984654858"
-        },
-        {
-          "challengeName": "2p Ai Manipulation",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "926505848308654120"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "477570902075113472",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "642448107132420153",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "761607847803879444",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "596959137108197378",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "587997959472414749",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "678602644788609083",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "218262757965955072",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "739860189540253786",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "227428629657812992",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "593180001134968874",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "140926780293906432",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "598322565487788037",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "361902936705728513",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "732614958373797968",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "289431051711807489",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "745413223137935429",
-      "points": 13,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 9",
-          "points": 1,
-          "channelId": "914314578442203176",
-          "messageId": "914340021052538920"
-        },
-        {
-          "challengeName": "2p Wave 13",
-          "points": 2,
-          "channelId": "914314578442203176",
-          "messageId": "914340051721273356"
-        },
-        {
-          "challengeName": "2p Wave 18",
-          "points": 4,
-          "channelId": "914314578442203176",
-          "messageId": "914340080175435796"
-        },
-        {
-          "challengeName": "2p Wave 26",
-          "points": 6,
-          "channelId": "914314578442203176",
-          "messageId": "914340107270631466"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "545548380231958539",
-      "points": 9,
-      "challenges": [
-        {
-          "challengeName": "1p Precognition",
-          "points": 9,
-          "channelId": "914314515695427634",
-          "messageId": "922567443140997121"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "721067295941722193",
-      "points": 9,
-      "challenges": [
-        {
-          "challengeName": "2p Wave 34",
-          "points": 9,
-          "channelId": "914314578442203176",
-          "messageId": "914340175893626920"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "787800023610032128",
-      "points": 8,
-      "challenges": [
-        {
-          "challengeName": "2p Unarmed",
-          "points": 8,
-          "channelId": "914314578442203176",
-          "messageId": "914347087313928232"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "608539402838474792",
       "points": 7,
       "challenges": [
         {
           "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
+          "points": 7
         }
       ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "377840192612204544",
-      "points": 7,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "383912042186276877",
-      "points": 7,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "431855443430604800",
-      "points": 7,
-      "challenges": [
-        {
-          "challengeName": "3p Wave 26",
-          "points": 7,
-          "channelId": "914314612449636433",
-          "messageId": "914343452584587315"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "269944153184403468",
-      "points": 4,
-      "challenges": [
-        {
-          "challengeName": "1p Gruagach",
-          "points": 4,
-          "channelId": "914314515695427634",
-          "messageId": "916268808153493504"
-        }
-      ],
-      "pointsSpent": 0
-    },
-    {
-      "id": "759159372248514591",
-      "points": 0,
-      "challenges": [],
-      "pointsSpent": 0
-    },
-    {
-      "id": "751016008231288843",
-      "points": 0,
-      "challenges": [],
-      "pointsSpent": 0
-    },
-    {
-      "id": "700762996372275211",
-      "points": 0,
-      "challenges": [],
-      "pointsSpent": 0
-    },
-    {
-      "id": "292926748772007938",
-      "points": 0,
-      "challenges": [],
       "pointsSpent": 0
     }
   ]
